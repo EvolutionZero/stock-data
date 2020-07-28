@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:p="http://www.springframework.org/schema/p"
+	xmlns:context="http://www.springframework.org/schema/context"
+
+	xmlns:aop="http://www.springframework.org/schema/aop" xmlns:tx="http://www.springframework.org/schema/tx"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+       http://www.springframework.org/schema/context
+       http://www.springframework.org/schema/context/spring-context-3.0.xsd
+       http://www.springframework.org/schema/tx
+       http://www.springframework.org/schema/tx/spring-tx-3.0.xsd
+       http://www.springframework.org/schema/aop
+       http://www.springframework.org/schema/aop/spring-aop-3.0.xsd
+        http://www.springframework.org/schema/mvc
+        http://www.springframework.org/schema/mvc/spring-mvc-3.0.xsd"
+
+
+	xmlns:mvc="http://www.springframework.org/schema/mvc">
+
+
+	<!-- 启用spring mvc 注解 -->
+	<!-- <context:annotation-config /> -->
+
+	<!-- 设置使用注解的类所在的jar包 -->
+	<context:component-scan base-package="com.season.stock.data"></context:component-scan>
+
+	<!-- 对模型视图名称的解析，即在模型视图名称添加前后缀,在requestmapping输入的地址后自动调用该类进行视图解析 -->
+	<bean id="viewResolver"
+		class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+		<property name="viewClass"
+			value="org.springframework.web.servlet.view.JstlView" />
+		<!-- 前缀为/jsp，默认进入jsp文件夹 -->
+		<property name="prefix" value="/jsp/"></property>
+		<!-- 后缀为.jsp，默认为jsp文件 -->
+		<property name="suffix" value=".jsp"></property>
+	</bean>
+
+	<!-- 配置Jdbc模板 -->
+	<bean id="jdbcTemplate" class="org.springframework.jdbc.core.JdbcTemplate">
+		<property name="dataSource" ref="dataSource"></property>
+	</bean>
+
+	<bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource">
+		<property name="driverClassName" value="com.mysql.jdbc.Driver">
+		</property>
+		<property name="url"
+			value="jdbc:mysql://120.76.53.91:3306/stock_new?useUnicode=true&amp;characterEncoding=UTF-8">
+		</property>
+		<property name="username" value="seasons"></property>
+		<property name="password" value="seasons!123"></property>
+		<!-- 连接池启动时的初始值 -->
+		<property name="initialSize" value="2" />
+		<!-- 连接池的最大值 -->
+		<property name="maxActive" value="10" />
+		<!-- 最大空闲值.当经过一个高峰时间后，连接池可以慢慢将已经用不到的连接慢慢释放一部分，一直减少到maxIdle为止 -->
+		<property name="maxIdle" value="10" />
+		<!-- 最小空闲值.当空闲的连接数少于阀值时，连接池就会预申请去一些连接，以免洪峰来时来不及申请 -->
+		<property name="minIdle" value="2" />
+		<!--#给出一条简单的sql语句进行验证 -->
+		<property name="validationQuery" value="select 1" />
+		<property name= "testWhileIdle" value="true"></property>
+		<property name= "testOnBorrow"  value="false"></property>
+		<property name= "testOnReturn" value="false"></property>
+		<property name= "validationQueryTimeout" value="5"></property>
+		<property name= "timeBetweenEvictionRunsMillis" value="30000"></property>
+		<property name= "numTestsPerEvictionRun" value="10"></property>
+	</bean>
+
+	<!-- 配置事务管理 -->
+	<bean id="txManager"
+		class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+		<property name="dataSource" ref="dataSource" />
+	</bean>
+
+	<tx:annotation-driven transaction-manager="txManager" />
+
+	<!-- 配置json -->
+	<bean id="messageAdapter"
+		class="org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter">
+		<property name="messageConverters">
+			<list>
+				<ref bean="mappingJacksonHttpMessageConverter" />
+			</list>
+		</property>
+	</bean>
+
+	<bean id="mappingJacksonHttpMessageConverter"
+		class="org.springframework.http.converter.json.MappingJacksonHttpMessageConverter">
+		<property name="supportedMediaTypes">
+			<list>
+				<value>application/json;charset=UTF-8</value>
+			</list>
+		</property>
+	</bean>
+
+</beans>

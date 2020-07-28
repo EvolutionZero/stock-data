@@ -1,0 +1,60 @@
+	   <li><span><a href="http://quote.stockstar.com/gs/sz_200002.shtml">200002</a></span><a href="http://stock.quote.stockstar.com/200002.shtml">万 科Ｂ</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200003.shtml">200003</a></span><a href="http://stock.quote.stockstar.com/200003.shtml">200003</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200011.shtml">200011</a></span><a href="http://stock.quote.stockstar.com/200011.shtml">深物业B</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200012.shtml">200012</a></span><a href="http://stock.quote.stockstar.com/200012.shtml">南 玻Ｂ</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200013.shtml">200013</a></span><a href="http://stock.quote.stockstar.com/200013.shtml">200013</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200015.shtml">200015</a></span><a href="http://stock.quote.stockstar.com/200015.shtml">200015</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200016.shtml">200016</a></span><a href="http://stock.quote.stockstar.com/200016.shtml">深康佳Ｂ</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200017.shtml">200017</a></span><a href="http://stock.quote.stockstar.com/200017.shtml">深中华B</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200018.shtml">200018</a></span><a href="http://stock.quote.stockstar.com/200018.shtml">神州B</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200019.shtml">200019</a></span><a href="http://stock.quote.stockstar.com/200019.shtml">深深宝Ｂ</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200020.shtml">200020</a></span><a href="http://stock.quote.stockstar.com/200020.shtml">深华发Ｂ</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200022.shtml">200022</a></span><a href="http://stock.quote.stockstar.com/200022.shtml">深赤湾Ｂ</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200024.shtml">200024</a></span><a href="http://stock.quote.stockstar.com/200024.shtml">招商局Ｂ</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200025.shtml">200025</a></span><a href="http://stock.quote.stockstar.com/200025.shtml">特 力Ｂ</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200026.shtml">200026</a></span><a href="http://stock.quote.stockstar.com/200026.shtml">飞亚达Ｂ</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200028.shtml">200028</a></span><a href="http://stock.quote.stockstar.com/200028.shtml">一致Ｂ</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200029.shtml">200029</a></span><a href="http://stock.quote.stockstar.com/200029.shtml">深深房Ｂ</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200030.shtml">200030</a></span><a href="http://stock.quote.stockstar.com/200030.shtml">富奥B</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200037.shtml">200037</a></span><a href="http://stock.quote.stockstar.com/200037.shtml">*ST南电B</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200039.shtml">200039</a></span><a href="http://stock.quote.stockstar.com/200039.shtml">中 集Ｂ</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200041.shtml">200041</a></span><a href="http://stock.quote.stockstar.com/200041.shtml">200041</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200045.shtml">200045</a></span><a href="http://stock.quote.stockstar.com/200045.shtml">深纺织Ｂ</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200053.shtml">200053</a></span><a href="http://stock.quote.stockstar.com/200053.shtml">深基地Ｂ</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200054.shtml">200054</a></span><a href="http://stock.quote.stockstar.com/200054.shtml">建摩B</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200055.shtml">200055</a></span><a href="http://stock.quote.stockstar.com/200055.shtml">方大Ｂ</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200056.shtml">200056</a></span><a href="http://stock.quote.stockstar.com/200056.shtml">皇庭B</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200057.shtml">200057</a></span><a href="http://stock.quote.stockstar.com/200057.shtml">200057</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200058.shtml">200058</a></span><a href="http://stock.quote.stockstar.com/200058.shtml">深赛格B</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200152.shtml">200152</a></span><a href="http://stock.quote.stockstar.com/200152.shtml">山 航Ｂ</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200160.shtml">200160</a></span><a href="http://stock.quote.stockstar.com/200160.shtml">南江B</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200168.shtml">200168</a></span><a href="http://stock.quote.stockstar.com/200168.shtml">雷伊B</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200413.shtml">200413</a></span><a href="http://stock.quote.stockstar.com/200413.shtml">东旭B</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200418.shtml">200418</a></span><a href="http://stock.quote.stockstar.com/200418.shtml">小天鹅Ｂ</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200429.shtml">200429</a></span><a href="http://stock.quote.stockstar.com/200429.shtml">粤高速Ｂ</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200468.shtml">200468</a></span><a href="http://stock.quote.stockstar.com/200468.shtml">*ST宁通B</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200488.shtml">200488</a></span><a href="http://stock.quote.stockstar.com/200488.shtml">晨 鸣Ｂ</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200505.shtml">200505</a></span><a href="http://stock.quote.stockstar.com/200505.shtml">*ST珠江B</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200512.shtml">200512</a></span><a href="http://stock.quote.stockstar.com/200512.shtml">闽灿坤Ｂ</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200513.shtml">200513</a></span><a href="http://stock.quote.stockstar.com/200513.shtml">丽 珠Ｂ</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200521.shtml">200521</a></span><a href="http://stock.quote.stockstar.com/200521.shtml">皖美菱Ｂ</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200530.shtml">200530</a></span><a href="http://stock.quote.stockstar.com/200530.shtml">大 冷Ｂ</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200539.shtml">200539</a></span><a href="http://stock.quote.stockstar.com/200539.shtml">粤电力Ｂ</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200541.shtml">200541</a></span><a href="http://stock.quote.stockstar.com/200541.shtml">粤照明Ｂ</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200550.shtml">200550</a></span><a href="http://stock.quote.stockstar.com/200550.shtml">江 铃Ｂ</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200553.shtml">200553</a></span><a href="http://stock.quote.stockstar.com/200553.shtml">沙隆达Ｂ</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200570.shtml">200570</a></span><a href="http://stock.quote.stockstar.com/200570.shtml">苏常柴Ｂ</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200581.shtml">200581</a></span><a href="http://stock.quote.stockstar.com/200581.shtml">苏威孚Ｂ</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200596.shtml">200596</a></span><a href="http://stock.quote.stockstar.com/200596.shtml">古井贡Ｂ</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200613.shtml">200613</a></span><a href="http://stock.quote.stockstar.com/200613.shtml">大东海B</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200625.shtml">200625</a></span><a href="http://stock.quote.stockstar.com/200625.shtml">长 安Ｂ</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200706.shtml">200706</a></span><a href="http://stock.quote.stockstar.com/200706.shtml">*ST瓦轴B</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200725.shtml">200725</a></span><a href="http://stock.quote.stockstar.com/200725.shtml">京东方Ｂ</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200726.shtml">200726</a></span><a href="http://stock.quote.stockstar.com/200726.shtml">鲁 泰Ｂ</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200761.shtml">200761</a></span><a href="http://stock.quote.stockstar.com/200761.shtml">本钢板Ｂ</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200770.shtml">200770</a></span><a href="http://stock.quote.stockstar.com/200770.shtml">武锅B退</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200771.shtml">200771</a></span><a href="http://stock.quote.stockstar.com/200771.shtml">杭汽轮Ｂ</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200869.shtml">200869</a></span><a href="http://stock.quote.stockstar.com/200869.shtml">张 裕Ｂ</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200986.shtml">200986</a></span><a href="http://stock.quote.stockstar.com/200986.shtml">粤华包Ｂ</a></li>
+       <li><span><a href="http://quote.stockstar.com/gs/sz_200992.shtml">200992</a></span><a href="http://stock.quote.stockstar.com/200992.shtml">中 鲁Ｂ</a></li> 
+      
